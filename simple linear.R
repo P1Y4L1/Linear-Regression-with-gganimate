@@ -1,4 +1,4 @@
-
+#import a csv file of your own choice
 D<-read.csv("a.csv")
 D
 x<-c(D$x)
